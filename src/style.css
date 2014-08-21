@@ -159,9 +159,7 @@ td.pane-header {
   background-color: #fff; 
 }
 
-#side-panel > div:not(#navigation) {
-  display: none; 
-}
+
 
 #side-panel .task a {
   text-decoration: none;
